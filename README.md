@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Simulation
 |  |
 | ------- |
@@ -22,4 +23,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 <!---LeetCode Topics End-->
