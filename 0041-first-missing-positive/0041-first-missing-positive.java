@@ -6,7 +6,9 @@ class Solution {
             if(nums[i] == val){
                 val++;
             }
+
         }
         return val;
+        
     }
 }
