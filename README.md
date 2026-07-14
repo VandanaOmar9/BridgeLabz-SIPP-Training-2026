@@ -12,11 +12,13 @@
 | [0537-complex-number-multiplication](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
 | [0678-valid-parenthesis-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0844-backspace-string-compare](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
+| [0844-backspace-string-compare](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -46,9 +48,14 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
