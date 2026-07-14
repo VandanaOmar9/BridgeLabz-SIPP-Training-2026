@@ -37,6 +37,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0041-first-missing-positive) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Dynamic Programming
 |  |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0041-first-missing-positive) |
 ## Binary Search
 |  |
 | ------- |
