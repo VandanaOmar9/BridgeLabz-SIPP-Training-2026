@@ -8,6 +8,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0020-valid-parentheses) |
 | [0537-complex-number-multiplication](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Simulation
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
