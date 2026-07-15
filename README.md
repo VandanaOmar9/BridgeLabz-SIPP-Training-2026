@@ -29,6 +29,7 @@
 | [0203-remove-linked-list-elements](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0237-delete-node-in-a-linked-list) |
+| [0706-design-hashmap](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0041-first-missing-positive) |
 | [0383-ransom-note](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0383-ransom-note) |
+| [0706-design-hashmap](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Dynamic Programming
 |  |
@@ -69,12 +71,14 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0155-min-stack) |
+| [0706-design-hashmap](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
 ## Array
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0041-first-missing-positive) |
+| [0706-design-hashmap](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 | [0907-sum-of-subarray-minimums](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0907-sum-of-subarray-minimums) |
 ## Binary Search
 |  |
@@ -97,4 +101,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0383-ransom-note) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
