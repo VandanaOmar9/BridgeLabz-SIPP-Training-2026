@@ -51,6 +51,7 @@
 | [0155-min-stack](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
 | [2390-removing-stars-from-a-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
 ## Array
 |  |
 | ------- |
@@ -77,4 +79,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0004-median-of-two-sorted-arrays) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
