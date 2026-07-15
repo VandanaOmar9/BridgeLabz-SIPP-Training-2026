@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
+| [1248-count-number-of-nice-subarrays](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0706-design-hashmap](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [0706-design-hashmap](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 | [0907-sum-of-subarray-minimums](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1248-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,4 +114,9 @@
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1248-count-number-of-nice-subarrays) |
+## Sliding Window
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
