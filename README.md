@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0383-ransom-note) |
 | [0537-complex-number-multiplication](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
 | [0678-valid-parenthesis-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0041-first-missing-positive) |
+| [0383-ransom-note](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0383-ransom-note) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Dynamic Programming
 |  |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
