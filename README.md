@@ -43,6 +43,7 @@
 | [0383-ransom-note](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0383-ransom-note) |
 | [0706-design-hashmap](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0041-first-missing-positive](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0041-first-missing-positive) |
 | [0706-design-hashmap](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 | [0907-sum-of-subarray-minimums](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0907-sum-of-subarray-minimums) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,4 +107,8 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
+## Prefix Sum
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
