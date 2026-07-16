@@ -81,6 +81,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0041-first-missing-positive) |
+| [0506-relative-ranks](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0506-relative-ranks) |
 | [0706-design-hashmap](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 | [0907-sum-of-subarray-minimums](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -119,4 +120,12 @@
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1248-count-number-of-nice-subarrays) |
+## Sorting
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
