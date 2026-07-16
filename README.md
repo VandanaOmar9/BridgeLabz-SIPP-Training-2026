@@ -6,6 +6,7 @@
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1248-count-number-of-nice-subarrays) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0537-complex-number-multiplication](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
 | [0844-backspace-string-compare](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
@@ -89,6 +92,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1054-distant-barcodes](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1054-distant-barcodes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1248-count-number-of-nice-subarrays) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,9 +133,14 @@
 | ------- |
 | [0506-relative-ranks](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0506-relative-ranks) |
 | [1054-distant-barcodes](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1054-distant-barcodes) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0506-relative-ranks) |
 | [1054-distant-barcodes](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1054-distant-barcodes) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
