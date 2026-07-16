@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0155-min-stack) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0706-design-hashmap](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
 ## Array
@@ -111,6 +112,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
 ## Counting
 |  |
@@ -142,10 +144,23 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0506-relative-ranks) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1054-distant-barcodes](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1094-car-pooling) |
 ## Number Theory
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
