@@ -45,6 +45,7 @@
 | [0706-design-hashmap](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1054-distant-barcodes](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1054-distant-barcodes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
+| [1054-distant-barcodes](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1054-distant-barcodes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | [0706-design-hashmap](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 | [0907-sum-of-subarray-minimums](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1054-distant-barcodes](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1054-distant-barcodes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1248-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
@@ -107,6 +110,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0383-ransom-note) |
+| [1054-distant-barcodes](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1054-distant-barcodes) |
 ## Hash Function
 |  |
 | ------- |
@@ -124,8 +128,10 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0506-relative-ranks) |
+| [1054-distant-barcodes](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1054-distant-barcodes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0506-relative-ranks) |
+| [1054-distant-barcodes](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1054-distant-barcodes) |
 <!---LeetCode Topics End-->
