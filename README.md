@@ -13,6 +13,7 @@
 | [0020-valid-parentheses](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0383-ransom-note) |
 | [0516-longest-palindromic-subsequence](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0516-longest-palindromic-subsequence) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0537-complex-number-multiplication](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
 | [0678-valid-parenthesis-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0041-first-missing-positive) |
 | [0383-ransom-note](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0383-ransom-note) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0706-design-hashmap](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -76,6 +78,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0844-backspace-string-compare](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
@@ -91,6 +94,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0041-first-missing-positive) |
 | [0506-relative-ranks](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0506-relative-ranks) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0706-design-hashmap](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 | [0907-sum-of-subarray-minimums](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -139,6 +143,7 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0506-relative-ranks) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1054-distant-barcodes](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1094-car-pooling) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
