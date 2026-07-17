@@ -12,6 +12,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0383-ransom-note) |
+| [0516-longest-palindromic-subsequence](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0516-longest-palindromic-subsequence) |
 | [0537-complex-number-multiplication](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
 | [0678-valid-parenthesis-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -53,6 +54,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0907-sum-of-subarray-minimums) |
