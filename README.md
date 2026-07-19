@@ -74,6 +74,7 @@
 | [0901-online-stock-span](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0907-sum-of-subarray-minimums) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
@@ -81,6 +82,7 @@
 | [0678-valid-parenthesis-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
 | [1054-distant-barcodes](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1054-distant-barcodes) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [1054-distant-barcodes](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1248-count-number-of-nice-subarrays) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1673-find-the-most-competitive-subsequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -124,6 +127,7 @@
 | ------- |
 | [0901-online-stock-span](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0907-sum-of-subarray-minimums) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Data Stream
 |  |
 | ------- |
