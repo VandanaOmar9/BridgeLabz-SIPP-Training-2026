@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0539-minimum-time-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1248-count-number-of-nice-subarrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -16,6 +17,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0537-complex-number-multiplication](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0844-backspace-string-compare](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
@@ -98,6 +100,7 @@
 | [0506-relative-ranks](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0539-minimum-time-difference](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0539-minimum-time-difference) |
 | [0706-design-hashmap](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0706-design-hashmap) |
 | [0907-sum-of-subarray-minimums](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -148,6 +151,7 @@
 | [0506-relative-ranks](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0539-minimum-time-difference](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0539-minimum-time-difference) |
 | [1054-distant-barcodes](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1094-car-pooling) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
