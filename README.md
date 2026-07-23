@@ -62,6 +62,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -105,6 +106,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0041-first-missing-positive) |
 | [0463-island-perimeter](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -241,4 +243,5 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0077-combinations) |
+| [0494-target-sum](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
