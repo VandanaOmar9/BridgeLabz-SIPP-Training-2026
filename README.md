@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0050-powx-n) |
 | [0537-complex-number-multiplication](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0539-minimum-time-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/1248-count-number-of-nice-subarrays) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0206-reverse-linked-list) |
 ## Hash Table
