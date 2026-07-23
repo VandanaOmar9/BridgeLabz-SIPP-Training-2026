@@ -237,4 +237,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0572-subtree-of-another-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/VandanaOmar9/BridgeLabz-SIPP-Training-2026/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
